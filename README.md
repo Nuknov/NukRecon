@@ -18,7 +18,11 @@ During research, I observed these live/registered patterns, these patterns are c
 - http://youtube.com.blog/  
 - http://youtube.com.store/  
 
-Following are the proof of above phishing page, I founf using this tool:
+Following are the proof of above phishing page, I found using this tool:
+<img width="1045" height="277" alt="SUS 1" src="https://github.com/user-attachments/assets/813e1028-4975-43a0-977e-781aef1ac9b5" />
+<img width="1037" height="619" alt="SUS" src="https://github.com/user-attachments/assets/068494dc-91c5-4a67-bc76-6e38364bd167" />
+<img width="1077" height="589" alt="SUS 2" src="https://github.com/user-attachments/assets/c4cdc89e-cdcc-4fa8-a925-57cab077e106" />
+<img width="1167" height="504" alt="SUS 3" src="https://github.com/user-attachments/assets/a58d2194-9280-4c3b-99a2-6dd5e2e3c1d0" />
 
 
 
@@ -59,5 +63,6 @@ pip install -r requirements.txt
 
 # 5) Run the tool
 python redrecon or python3 redrecon
+
 
 

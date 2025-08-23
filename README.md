@@ -47,22 +47,27 @@ Following are the proof of above phishing page, I found using this tool:
 ```bash
 # 1) Clone this repository
 git clone https://github.com/Nuknov/NukRecon.git
-
+```
+```
 # 2) Go into the project folder
 cd NukRecon
-
+```
+```
 # 3) (Optional for linux/macOS but recommended) create a virtual environment
 python -m venv .venv
 # Windows:
 .venv\Scripts\activate
 # macOS/Linux:
 source .venv/bin/activate
-
+```
+```
 # 4) Install dependencies
 pip install -r requirements.txt
-
+```
+```
 # 5) Run the tool
 python redrecon or python3 redrecon
+```
 
 
 

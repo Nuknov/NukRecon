@@ -1,4 +1,4 @@
-# NukRecon 🔎
+# NukRecon
 
 A lightweight recon tool to discover **subdomains** and **hidden directories**.  
 It checks both the normal pattern (`sub.domain.com`) and a “reversed” pattern (`domain.com.word`) to raise awareness about look-alike / chained domains often used for phishing.
@@ -17,8 +17,12 @@ During research, I observed these live/registered patterns, these patterns are c
 - https://google.com.store/  
 - http://youtube.com.blog/  
 - http://youtube.com.store/  
- 
-**I’ve included screenshots as proof** inside the repo (`/screenshots`).
+
+Following are the proof of above phishing page, I founf using this tool:
+<img width="1280" height="1024" alt="SUS 1" src="https://github.com/user-attachments/assets/1d8d0980-9290-4dfd-b758-735627f86ec8" />
+<img width="1280" height="1024" alt="SUS" src="https://github.com/user-attachments/assets/49359c06-e96f-47d6-819f-89d5520b2d2b" />
+<img width="1280" height="1024" alt="SUS 2" src="https://github.com/user-attachments/assets/804d01e5-61fb-4cb8-a11e-b943770aaa8e" />
+
 
 ---
 
@@ -57,3 +61,4 @@ pip install -r requirements.txt
 
 # 5) Run the tool
 python redrecon or python3 redrecon
+

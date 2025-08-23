@@ -76,17 +76,17 @@ python redrecon or python3 redrecon
 
 
 ## ⚠️ Disclaimer
+> NukRecon is intended **solely for educational purposes, security research, and authorized testing**.  
+>
+> The tool is designed to help researchers, students, and security professionals **understand subdomain structures, directory paths, and potential phishing patterns**.  
+>
+> By using NukRecon, you agree to the following:  
+> 1. You will **only scan domains you own** or have **explicit permission** to test.  
+> 2. You will **not use this tool for illegal or malicious activities**.  
+> 3. The author is **not responsible for any misuse or damage** resulting from unauthorized usage.  
+>
+> Always act ethically, responsibly, and within the boundaries of the law.
 
-NukRecon is intended **solely for educational purposes, security research, and authorized testing**.  
-
-The tool is designed to help researchers, students, and security professionals **understand subdomain structures, directory paths, and potential phishing patterns**.  
-
-By using NukRecon, you agree to the following:  
-1. You will **only scan domains you own** or have **explicit permission** to test.  
-2. You will **not use this tool for illegal or malicious activities**.  
-3. The author is **not responsible for any misuse or damage** resulting from unauthorized usage.  
-
-Always act ethically, responsibly, and within the boundaries of the law.
 
 
 

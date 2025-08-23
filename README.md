@@ -16,7 +16,8 @@ During research, I observed these live/registered patterns, these patterns are c
 - https://testfire.net.download/#/page-not-found  
 - https://google.com.store/  
 - http://youtube.com.blog/  
-- http://youtube.com.store/  
+- http://youtube.com.store/
+- https://yahoo.com.blog/  
 
 Following are the proof of above phishing page, I found using this tool:
 <img width="1045" height="277" alt="SUS 1" src="https://github.com/user-attachments/assets/813e1028-4975-43a0-977e-781aef1ac9b5" />
@@ -86,6 +87,7 @@ python redrecon or python3 redrecon
 > 3. The author is **not responsible for any misuse or damage** resulting from unauthorized usage.  
 >
 > Always act ethically, responsibly, and within the boundaries of the law.
+
 
 
 

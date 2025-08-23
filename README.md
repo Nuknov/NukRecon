@@ -1,6 +1,6 @@
 # NukRecon
 
-A lightweight recon tool to discover **subdomains** and **hidden directories**.  
+A mini recon tool to discover **subdomains** and **hidden directories**.  
 It checks both the normal pattern (`sub.domain.com`) and a “reversed” pattern (`domain.com.word`) to raise awareness about look-alike / chained domains often used for phishing.
 
 ---
@@ -87,6 +87,7 @@ python redrecon or python3 redrecon
 > 3. The author is **not responsible for any misuse or damage** resulting from unauthorized usage.  
 >
 > Always act ethically, responsibly, and within the boundaries of the law.
+
 
 
 

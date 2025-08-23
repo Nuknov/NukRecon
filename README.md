@@ -73,7 +73,7 @@ python redrecon.py   or   python3 redrecon.py
 ---
 ## 5) **Proof of concept**: You can see the tool in action below.
 <img width="473" height="795" alt="SUBDOMAIN" src="https://github.com/user-attachments/assets/1ae8ba37-e966-429c-bcfd-a96a0e883367" />
-<img width="519" height="795" alt="PATHSCANNER" src="https://github.com/user-attachments/assets/a903ff27-f73f-48a6-a6ac-e697864987cc" />
+<img width="473" height="795" alt="PATHSCANNER" src="https://github.com/user-attachments/assets/a903ff27-f73f-48a6-a6ac-e697864987cc" />
 
 ## ⚠️ Disclaimer
 > NukRecon is intended **solely for educational purposes, security research, and authorized testing**.  
@@ -95,6 +95,7 @@ python redrecon.py   or   python3 redrecon.py
 - Twitter: [@Nuknov](https://twitter.com/Nuknov)  
 
 Feel free to connect if you have questions, suggestions, or collaboration ideas!
+
 
 
 

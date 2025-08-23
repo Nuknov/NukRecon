@@ -69,5 +69,12 @@ pip install -r requirements.txt
 python redrecon or python3 redrecon
 ```
 
+---
+5) **Proof of concept**: You can see the tool in action below.
+<img width="473" height="795" alt="SUBDOMAIN" src="https://github.com/user-attachments/assets/de1f83f6-7738-48ad-b57c-895495cc5e86" /> <img width="519" height="892" alt="PATHSCANNER" src="https://github.com/user-attachments/assets/82045778-a598-4c49-b9f8-ed431c983bfb" />
+
+
+
+
 
 

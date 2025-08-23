@@ -30,7 +30,7 @@ Following are the proof of above phishing page, I found using this tool:
 ---
 
 ## 2) Features
-- Normal pace scan for **subdomains** and **directories**
+- Mediocre pace scan for **subdomains** and **directories**
 - Tries **normal** (`sub.domain.com`) and **reversed** (`domain.com.word`) patterns
 - Shows only **live** results (HTTP status `< 400`)
 - Option to **save results** to `.txt`
@@ -49,11 +49,11 @@ Following are the proof of above phishing page, I found using this tool:
 # 1) Clone this repository
 git clone https://github.com/Nuknov/NukRecon.git
 ```
-```
+```bash
 # 2) Go into the project folder
 cd NukRecon
 ```
-```
+```bash
 # 3) (Optional for linux/macOS but recommended) create a virtual environment
 python -m venv .venv
 # Windows:
@@ -61,13 +61,13 @@ python -m venv .venv
 # macOS/Linux:
 source .venv/bin/activate
 ```
-```
+```bash
 # 4) Install dependencies
 pip install -r requirements.txt
 ```
-```
+```bash
 # 5) Run the tool
-python redrecon or python3 redrecon
+python redrecon.py   or   python3 redrecon.py
 ```
 
 ---
@@ -87,6 +87,15 @@ python redrecon or python3 redrecon
 > 3. The author is **not responsible for any misuse or damage** resulting from unauthorized usage.  
 >
 > Always act ethically, responsibly, and within the boundaries of the law.
+
+---
+## Author
+
+**Nuknov** – Security Researcher & Developer  
+GitHub: [https://github.com/Nuknov](https://github.com/Nuknov)  
+Twitter: [@Nuknov](https://twitter.com/Nuknov)  
+
+Feel free to connect if you have questions, suggestions, or collaboration ideas!
 
 
 
